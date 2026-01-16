@@ -20,7 +20,7 @@
             <div class="home-content">
                 <div class="intro-text">
                     <h1>Halo, Saya <span>Rahmat Sito Pambudi</span></h1>
-                    <div class="title">Full Stack Developer & UI/UX Designer <br> & Designer</div>
+                    <div class="title">Full Stack Developer & UI/UX Designer</div>
                     <p>Saya seorang pengembang perangkat lunak dengan pengalaman 1+ tahun dalam membangun web desktop dan mobile yang skalabel dan responsif. Passion saya adalah menciptakan solusi digital yang inovatif dan user-friendly.</p>
                     <a href="javascript:void(0)" class="btn" id="downloadCV">
                         <i class="fas fa-download"></i> Download CV
@@ -73,7 +73,7 @@
                     </div>
                 </div>
                 <div class="about-image">
-                    <img src="https://images.unsplash.com/photo-1521737711867-e3b97375f902?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80" alt="About Me">
+                    <img src="img/rahmat_project.jpeg" alt="About Me">
                 </div>
             </div>
         </div>
@@ -255,7 +255,7 @@
                             <span>Bootstrap</span>
                         </div>
                         <div class="project-links">
-                            <a href="javascript:void(0)" class="project-link">
+                            <a href="https://github.com/Happybite1/portofolio" class="project-link">
                                 <i class="fab fa-github"></i> Code
                             </a>
                             <a href="javascript:void(0)" class="project-link">
@@ -279,7 +279,7 @@
                             <span>Machine Learning</span>
                         </div>
                         <div class="project-links">
-                            <a href="javascript:void(0)" class="project-link">
+                            <a href="#" class="project-link">
                                 <i class="fab fa-github"></i> Code
                             </a>
                             <a href="javascript:void(0)" class="project-link">
